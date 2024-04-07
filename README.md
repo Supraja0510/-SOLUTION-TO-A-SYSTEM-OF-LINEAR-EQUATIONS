@@ -19,6 +19,7 @@ A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 B = np.array([-9,4,-1])
 solution=np.linalg.solve(A,B)
 print("The solution for the given matrix is",solution)```
+
 ## Output:![image](https://github.com/Supraja0510/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/155217478/80131531-7bce-4380-9099-de0b92811f4d)
 
 ## Result: 
